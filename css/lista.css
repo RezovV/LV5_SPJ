@@ -1,0 +1,12 @@
+.slike
+{
+    float:right;
+}
+
+#btn {
+  border: none;
+  background-color: inherit;
+  padding: 5px 5px;
+  cursor: pointer;
+  display: inline-block;
+}
